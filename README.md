@@ -74,6 +74,6 @@ Possible improvements for future versions:
 * Improve input validation
 * Add task IDs instead of deleting by task name
 
----
+-----
 
 **Created by Shaurya Bansal**
